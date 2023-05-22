@@ -1,5 +1,5 @@
 # sslei
-This script will run your custom nuclei ssl.yaml to gather more assets from your target.
+This script will run your custom nuclei `ssl.yaml` to gather more assets from your target.
 ![sslei-h](https://github.com/AliSh3ikhi/sslei/assets/77098341/25d47eda-ab9e-49e3-8c53-415323e921e1)
 
 This script is usefull for your recon.
